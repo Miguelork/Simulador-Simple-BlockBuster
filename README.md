@@ -1,6 +1,6 @@
 <h1>Guía de Uso:</h1>
 
-<h6>Este proyecto fue desarrollado por Miguelangel Somana y Guillermo Sosa, para la asignatura de Organización del Computador </h6>
+<h6 align="center"> Este proyecto fue desarrollado por Miguelangel Somana y Guillermo Sosa, para la asignatura de Organización del Computador, Trimestre 2021-01</h6>
 
 <ol>
 <li> Al correr el programa se mostrará la ventana de login, donde ambos ya tienen perfiles creados con su número de socio establecido. 
